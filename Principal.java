@@ -1,6 +1,6 @@
 public class Principal {
     public static void main (String[] args ) {
-        System.out.println(Vectores.imprimir("hola"));
+        Vectores.imprimir("hola");
 
         int num = 2;
 
